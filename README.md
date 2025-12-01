@@ -16,9 +16,9 @@ I'm Nkulu Letsale, passionate about technology and software development. I love 
 ---
 
 ## 📂 Projects Showcase
-- [**Awesome Portfolio**](https://github.com/Nkulu-letsale/awesome-portfolio) – A modern portfolio website showcasing my work.
-- [**API Automation Scripts**](https://github.com/Nkulu-letsale/api-automation) – Scripts for automating API testing and workflows.
-- [**React Dashboard**](https://github.com/Nkulu-letsale/react-dashboard) – A responsive dashboard built with React and Chart.js.
+- [**Personal-portfolio**](https://github.com/Nkulu-letsale/Personal-portfolio) – A personal portfolio website showcasing my skills and projects.
+- [**Car-X-Project**](https://github.com/Nkulu-letsale/Car-X-Project) – A car management and tracking application with modern UI.
+- [**DailyHustle**](https://github.com/Nkulu-letsale/DailyHustle) – A productivity app to manage daily tasks and goals.
 
 ---
 
@@ -37,7 +37,7 @@ I'm Nkulu Letsale, passionate about technology and software development. I love 
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Nkulu-letsale)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](www.linkedin.com/in/elvisletsale)](#)
 
 ---
 ⭐️ From [Nkulu-letsale](https://github.com/Nkulu-letsale)

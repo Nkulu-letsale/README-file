@@ -17,7 +17,7 @@ I'm Nkulu Letsale, passionate about technology and software development. I love 
 
 ## 📂 Projects Showcase
 - [**Personal-portfolio**](https://nkulu-letsale.github.io/Personal-portfolio/) – A personal portfolio website showcasing my skills and projects.
-- [**Car-X-Project**](https://github.com/Nkulu-letsale/Car-X-Project) – A car management and tracking application with modern UI.
+- [**Car-X-Project**](https://nkulu-letsale.github.io/Car-X-Project/) – A car management and tracking application with modern UI.
 - [**DailyHustle**](https://github.com/Nkulu-letsale/DailyHustle) – A productivity app to manage daily tasks and goals.
 
 ---
